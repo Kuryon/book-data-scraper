@@ -36,7 +36,7 @@ python scrape_books.py https://books.toscrape.com/catalogue/category/books/myste
 
 ## Results
 
-Add a screenshot of the CSV output here.
+![CSV Output](image_8a0686.png)
 
 ---
 
